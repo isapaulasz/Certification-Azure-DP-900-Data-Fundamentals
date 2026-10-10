@@ -2,7 +2,7 @@
 
 # Certificação Azure Data Fundamentals | DP-900
 
-<img width="150" alt="Microsoft Azure" src="https://github.com/user-attachments/assets/67686f81-c2a3-4372-a16d-4057f96b9806" />
+<a href="https://learn.microsoft.com/api/credentials/share/pt-br/isapaulasz/8FCEC29800A46A64?sharingId=B3266C96EC142DB1"><img width="150" alt="Microsoft Azure" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" /></a>
 <br><br>
 
 [![Microsoft Learn Profile](https://img.shields.io/badge/Microsoft%20Learn-Meu%20Perfil-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/pt-br/users/isapaulasz/)
@@ -53,10 +53,9 @@ Trilha completa: 🔗 [Microsoft Certified: Azure Data Fundamentals](https://lea
 | 01 | 26/08/2026 | Explore os conceitos principais de dados | 57 min | [00-Core-Data-Concepts](./00-Core-Data-Concepts/) | [Acessar trilha](https://learn.microsoft.com/pt-br/training/paths/azure-data-fundamentals-explore-core-data-concepts/?wt.mc_id=studentamb_625645) |
 | 02 | 02/09/2026 | Explore dados relacionais no Azure | 1 h 19 min | [01-Relational-Data](./01-Relational-Data/) | [Acessar trilha](https://learn.microsoft.com/pt-br/training/paths/azure-data-fundamentals-explore-relational-data/?wt.mc_id=studentamb_625645) |
 | 03 | 12/09/2026 | Explore dados não relacionais no Azure | 1 h 27 min | [02-Non-Relational-Data](./02-Non-Relational-Data/) | [Acessar trilha](https://learn.microsoft.com/pt-br/training/paths/azure-data-fundamentals-explore-non-relational-data/?wt.mc_id=studentamb_625645) |
-| 04 | - | Explore análise de dados no Azure | 2 h 08 min | [03-Data-Analytics](./03-Data-Analytics/) | [Acessar trilha](https://learn.microsoft.com/pt-br/training/paths/azure-data-fundamentals-explore-data-warehouse-analytics/?wt.mc_id=studentamb_625645) |
+| 04 | 16/09/2026 | Explore análise de dados no Azure | 2 h 08 min | [03-Data-Analytics](./03-Data-Analytics/) | [Acessar trilha](https://learn.microsoft.com/pt-br/training/paths/azure-data-fundamentals-explore-data-warehouse-analytics/?wt.mc_id=studentamb_625645) |
 
 **Total de: 5h 51min** 
-> 💡 Vamos preencher as colunas **Data** conforme for concluindo cada trilha.
 
 ---
 
